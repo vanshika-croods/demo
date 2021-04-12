@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+Hello
 ${student.firstName}
 <br/>
 ${student.lastName}
